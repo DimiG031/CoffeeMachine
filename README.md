@@ -34,6 +34,9 @@ This project is a **Java application** that simulates the operations of a coffee
 - **Additional Beverages**: Include more beverage options like tea or hot chocolate.
 - **Maintenance Alerts**: Notify users when the machine requires maintenance.
 
+---
+✨ **Author:** [Goran Dimitrijevic Dimi](https://dimig031.github.io/)
+
 ## License
 This project is open-source under the [MIT License](LICENSE).
 
